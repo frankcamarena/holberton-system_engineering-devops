@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -R -p -m -a ./
