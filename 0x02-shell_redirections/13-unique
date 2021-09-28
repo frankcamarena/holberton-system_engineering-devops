@@ -1,2 +1,2 @@
 #!/bin/bash
-greap -u
+greap -d
