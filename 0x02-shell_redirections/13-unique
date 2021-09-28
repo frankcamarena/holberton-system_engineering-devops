@@ -1,2 +1,2 @@
 #!/bin/bash
-greap -d
+uniq -d
