@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | rev | cut -f 1 -d ' ' | rev | sed -n 'n;p'
+ls -l | rev | cut -f 1 -d ' ' | rev  
